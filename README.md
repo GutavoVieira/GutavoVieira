@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutavoVieira&layout=compact&hide_border=true&title_color=06770B&text_color=06770B&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduvalent3&bg_color=000000&color=06770B&line=07e9a5&point=06770B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GutavoVieira&bg_color=000000&color=06770B&line=07e9a5&point=06770B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias que eu uso no dia a dia:
 
@@ -29,7 +29,7 @@ Apaixonado por tecnologia, atualmente cursando ciência da computação, busco d
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eduvalent3}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GutavoVieira}/count.svg" /></p> 
 <br></div>
 
 
