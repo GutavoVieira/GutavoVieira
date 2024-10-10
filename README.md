@@ -1,15 +1,15 @@
 <div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06770B&height=120&section=header"/>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=header"/>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06770B&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Gustavo+Vieira+🧑🏻‍💻;Moro+em++Brasília,+DF;Estou+cursando+Ciência+da+Computação.;+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D47A1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Gustavo+Vieira+🧑🏻‍💻;Moro+em++Brasília,+DF;Estou+cursando+Ciência+da+Computação.;+:%29)](https://git.io/typing-svg) 
 </div><br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GutavoVieira&show_icons=true&count_private=true&hide_border=true&title_color=06770B&icon_color=06770B&text_color=c9d1d9&bg_color=000000" alt="Eduardo Valente github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutavoVieira&layout=compact&hide_border=true&title_color=06770B&text_color=06770B&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GutavoVieira&show_icons=true&count_private=true&hide_border=true&title_color=0D47A1&icon_color=0D47A1&text_color=c9d1d9&bg_color=000000" alt="Eduardo Valente github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutavoVieira&layout=compact&hide_border=true&title_color=0D47A1&text_color=0D47A1&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GutavoVieira&bg_color=000000&color=06770B&line=07e9a5&point=06770B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GutavoVieira&bg_color=000000&color=0D47A1&line=07e9a5&point=0D47A1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias que eu uso no dia a dia:
 
@@ -22,7 +22,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
 </div><br/>
 
 Apaixonado por tecnologia, atualmente cursando ciência da computação, busco desenvolver minhas habilidades em desenvolvimento de sistemas.
@@ -32,6 +31,4 @@ Apaixonado por tecnologia, atualmente cursando ciência da computação, busco d
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GutavoVieira}/count.svg" /></p> 
 <br></div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06770B&height=120&section=footer"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=footer"/>
